@@ -1,0 +1,7 @@
+name: Nofiredamage
+version: '${project.version}'
+main: dcannon121.nofiredamage.Nofiredamage
+api-version: 1.19
+authors: [ dcannon121 ]
+description: Allows you to prevent certain players from taking fire damage
+softdepend: [ProjectKorra]
